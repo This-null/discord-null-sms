@@ -1,0 +1,10 @@
+{
+   "token": "BOT_TOKEN",
+   "guildId": "GUILD_ID",
+   "smsRoleId": "SMS_ROLE_ID",
+   "vonage": {
+      "apiKey": "VONAGE_API_KEY",
+      "apiSecret": "VONAGE_API_SECRET",
+      "number": "VONAGE_NUMBER"
+   }
+  }

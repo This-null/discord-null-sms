@@ -1,0 +1,16 @@
+{
+  "name": "null-sms",
+  "version": "0.0.3",
+  "description": "Basit bir v14 sms-guard sistemi.",
+  "main": "null.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mustafa Gökkaya",
+  "license": "MIT",
+  "dependencies": {
+    "@vonage/server-sdk": "^3.10.0",
+    "discord.js": "^14.13.0"
+  }
+}
